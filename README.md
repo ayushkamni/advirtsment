@@ -38,7 +38,7 @@ Clone the project and install dependencies to run it on your local machine.
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/NishantRajWebDeveloper/princeXpert.git](https://github.com/NishantRajWebDeveloper/princeXpert.git)
+git clone [https://github.com/ayushkamni/advirtsment.git](https://github.com/ayushkamni/advirtsment.git)
 
 # 2. Go to the project directory
 cd princeXpert
@@ -86,9 +86,10 @@ We take performance seriously. Current Lighthouse scores:
 
 ## 👤 Author
 
-**Nishant Raj**
+**ayushkamni**
 
-* GitHub: [@NishantRajWebDeveloper](https://www.google.com/search?q=https://github.com/NishantRajWebDeveloper)
+* GitHub: [@ayushkamni](https://github.com/ayushkamni)
+* LinkedIn: [ayushkemni](https://www.linkedin.com/in/ayushkemni/)
 
 ---
 
