@@ -1,0 +1,6 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Point them to the sitemap
+Sitemap: https://www.princexpert.in/sitemap.xml
